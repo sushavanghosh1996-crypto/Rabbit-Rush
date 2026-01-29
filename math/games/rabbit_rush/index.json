@@ -1,0 +1,9 @@
+{
+  "game": "rabbit_rush",
+  "modes": [
+    {
+      "name": "base",
+      "lookup_table": "lookup.json"
+    }
+  ]
+}
